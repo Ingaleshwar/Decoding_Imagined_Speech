@@ -7,7 +7,7 @@ This project aims to build an assistive technology that provides a new communica
 From an accessible source, the EEG signals corresponding to three words are collected. Subsequently, The signals undergo pre-processing, feature extraction, and a support vector classifier is built using training samples. The trained model is deployed on a Raspberry Pi. When tested using test samples the system is able to decode the imagined word correctly with an accuracy of 35%. The imagined word is displayed using LCD. A robotic arm is also built that performs a gesture of the imagines word.<br>
 <b>Keywords: Electroencephalogram , Brain-Computer Interface , Assistive technologies, Raspberry Pi.</b>
 <hr>
-<h1>Objective of the project</h1><br>
+<h1>Objective of the project</h1>
 The key objectives of the project are:<br>
 1. To develop a classifier to classify three imagined words from EEG data.<br>
 2. To deploy the model on Raspberry Pi .<br>
