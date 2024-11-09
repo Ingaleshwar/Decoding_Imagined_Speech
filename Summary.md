@@ -1,0 +1,7 @@
+# Summary  
+The analysis compared imagined speech using EEG signals obtained from 15 different participants who were imagining specific words. Time-domain analysis revealed that while there are similarities, imagined speech signals exhibit distinct patterns. This suggests that imagined speech may not precisely replicate the neural patterns of actual speech production, necessitating further research to understand these differences and their implications.<br>
+Focusing on imagined speech, frequency-domain analysis, specifically using Fast Fourier Transform, provided significant insights into the spectral components of imagined speech signals. Certain EEG channels were identified as crucial for extracting relevant features related to imagined speech. The consistent FFT patterns across these channels suggest common neural processes underlying imagined speech production, which could aid in developing effective classification algorithms for distinguishing between different imagined words.<br>
+However, in three-class classification tasks, the classification accuracy was 37%. The analysis of imagined speech signals provides valuable insights into the neural processes underlying speech production. While imagined speech differs from actual speech, frequencydomain analysis allows for the extraction of discriminative features for classification tasks. <br>
+
+![alt text](<Screenshot 2024-11-09 121009.png>) <br>
+![alt text](<Screenshot 2024-11-09 121025.png>)
