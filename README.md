@@ -7,3 +7,9 @@ Academic project - Decoding Imgained Speech in the field of Imagined Speech Reco
 <br> Rahul Jain S V
  <br> Rohith Ingaleshwar
  <br> Siddaganga Institute of Technology, Tumakuru-572103. <br>
+<hr>
+<h1> EEG-Based Imagined Speech Detection using SVM Classifier | Academic Project Jan 2024 – July 2024 </h1> 
+• Trained and implemented an SVM classifier to recognize three words: ’Hello’, ’Stop’, and ’Thank you’. <br> 
+• Integrated the model into a Raspberry Pi for product development. <br> 
+• Analyzed over 4000 EEG readings for feature extraction. <br> 
+• Developed a bionic arm to demonstrate the project’s application. 
